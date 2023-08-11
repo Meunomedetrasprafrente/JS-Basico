@@ -1,0 +1,1 @@
+window.prompt('digite sua idade agora')
